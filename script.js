@@ -30,3 +30,6 @@ window.addEventListener("scroll", function() {
 
 // Simple console log for testing JS
 console.log("SCM Assignment JavaScript loaded successfully.");
+
+console.log("This is a new feature added on feature-enhancements branch.");
+
