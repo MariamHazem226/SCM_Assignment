@@ -80,3 +80,15 @@ footer {
   background-color: #0077cc;
   color: white;
 }
+
+body {
+  background-color: #e0f7fa; /* Commit 3 */
+}
+
+section {
+  transition: transform 0.3s;
+}
+
+section:hover {
+  transform: scale(1.02);
+}
